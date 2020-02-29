@@ -63,5 +63,23 @@
 #backpack,#shoes{
     margin-bottom: 60px;
 }
+.feature p{
+    color: #b1b1b1;
+}
 
 /*----------------------Feature-----------------*/
+/*-----------------------Footer-----------------*/
+.footer{
+    height: 400px;
+}
+.footer p{
+    color: #b1b1b1;
+}
+.contact{
+    margin-top: 100px;
+    background-color: #feeae9;
+    padding: 40px 200px;
+    border-radius: 10px;
+}
+
+/*-----------------------Footer-----------------*/
