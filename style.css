@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/*----------------------Banner-----------------*/
 .banner{
     padding-top: 40px;
 }
@@ -26,3 +27,41 @@
     color: #ff136f;
     
 }
+/*----------------------Banner-----------------*/
+/*---------------------catagory-----------------*/
+.catagory-item{
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+.cart-1{
+    background-image: linear-gradient(to left,#ff9c35,#ffd019);
+}
+.cart-2{
+    background-image: linear-gradient(to right,#ff569a,#ff1470);
+}
+.cart-3{
+    background-image: linear-gradient(to right,#4288ff,#3f07f8);
+}
+.cart-1,.cart-2,.cart-3{
+    border-radius: 10px;
+    padding: 7px 20px;
+}
+.catagory-item img{
+    height: 130px;
+}
+/*---------------------catagory-----------------*/
+/*----------------------Feature-----------------*/
+.feature{
+    background-color: #f8f8f8;
+    padding: 40px 0 80px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    margin-bottom: 400px;
+}
+#backpack,#shoes{
+    margin-bottom: 60px;
+}
+
+/*----------------------Feature-----------------*/
